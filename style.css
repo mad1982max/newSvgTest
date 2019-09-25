@@ -1,0 +1,29 @@
+body * {
+    box-sizing: border-box;
+}
+
+.main {
+    margin: auto;
+    width: 66%;
+    max-width: 800px;    
+}
+object {
+    border: 2px solid rgb(151, 153, 151);
+    margin-bottom: 5px; 
+}
+
+.tooltip{
+    position: fixed;
+    width: 150px;
+    background: green;
+    top: 26px;
+    left: 75%;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    border-radius: 4px;
+}
+
+
+
+
