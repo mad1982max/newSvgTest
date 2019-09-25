@@ -12,11 +12,23 @@ object {
     margin-bottom: 5px; 
 }
 
-.tooltip{
-    position: fixed;
-    width: 150px;
+.tooltip1 {
+    position: absolute;
+    width: 160px;
     background: green;
     top: 26px;
+    left: 75%;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    border-radius: 4px;
+}
+
+.tooltip2 {
+    position: absolute;
+    width: 160px;
+    background: green;
+    top: 805px;
     left: 75%;
     text-align: center;
     color: white;
